@@ -8,3 +8,4 @@ Live Site URL: https://qr-card-99eb0b.netlify.app/
 
 
 ![](images/Screenshot%202022-04-15%20164809.png)
+![](images/Screenshot%202022-04-15%20164857.png)
