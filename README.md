@@ -6,6 +6,7 @@ Challenge by https://www.frontendmentor.io
 
 Live Site URL: https://qr-card-99eb0b.netlify.app/
 
+CodePen: https://codepen.io/Pulkit2104/pen/xxpyozY
 
 ![](images/Screenshot%202022-04-15%20164809.png)
 ![](images/Screenshot%202022-04-15%20164857.png)
